@@ -27,5 +27,3 @@ I combine:
 
 ## 📫 Contact
 - LinkedIn:  https://www.linkedin.com/in/samet-boga-tel5462442788/
-- Email:  samet57071@gmail.com
-
