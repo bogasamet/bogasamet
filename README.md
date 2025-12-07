@@ -8,12 +8,6 @@ I combine:
 - 🔗 **API & system integrations**
 - ⚡ **Workflow automation & orchestration**
 
-
-## 🔥 What I Do
- 
-- Develop **RPA workflows** that integrate with LLMs, APIs, web services, and enterprise systems  
-- Create **automation pipelines** combining RPA + AI + backend logic
-- 
 ### 🧠 AI & Automation
 - LLMs, RAG, embeddings  
 - Agentic workflows    
@@ -23,7 +17,7 @@ I combine:
 - Power Automate  
 - Process automation & design
 - n8n
--  
+  
 ## 🚀 What I'm Learning Now
 - Autonomous agent architectures  
 - RAG + Tool-Calling + multi-step reasoning systems  
