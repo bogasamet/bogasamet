@@ -1,6 +1,6 @@
  👋 Hi, I'm Samet — RPA Developer & AI Agent Builder
 
-I'm an automation engineer who builds **AI-powered agents** and **end-to-end intelligent workflows**.
+I'm an automation engineer builds end-to-end intelligent workflows.
 
 I combine:
 - 🤖 **RPA** (UiPath, Power Automate)
@@ -8,40 +8,22 @@ I combine:
 - 🔗 **API & system integrations**
 - ⚡ **Workflow automation & orchestration**
 
-to create modern, scalable, and smart solutions for business processes.
-
----
 
 ## 🔥 What I Do
  
 - Develop **RPA workflows** that integrate with LLMs, APIs, web services, and enterprise systems  
-- Create **automation pipelines** combining RPA + AI + backend logic  
-- Design modern architectures using LLM tool-calling, knowledge extraction, and external API orchestration
-
-
-
-## 🧰 Tech Stack & Tools
-
+- Create **automation pipelines** combining RPA + AI + backend logic
+- 
 ### 🧠 AI & Automation
 - LLMs, RAG, embeddings  
-- Agentic workflows  
-- Prompt engineering  
-- LangChain / MCP concepts / API integrations
+- Agentic workflows    
 
 ### 🤖 RPA
 - UiPath  
 - Power Automate  
 - Process automation & design
 - n8n
-
-### 💻 Backend / Dev
-- Python  
-- FastAPI / REST APIs  
-- JavaScript  
-- Docker  
-- SQL / NoSQL  
-- Git / GitHub
-- 
+-  
 ## 🚀 What I'm Learning Now
 - Autonomous agent architectures  
 - RAG + Tool-Calling + multi-step reasoning systems  
